@@ -28,6 +28,18 @@ https://s-m.com.sa/smtc/sdb/library.php
 
 7) make the command of gitclone and put the link right next to it 
 
+
+8) Launch you rviz 
+
+
+9) to the add option 
+
+
+10) find the robot stable 
+
+
+11) you will see the arm and you move it
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 do these commands for this task 
